@@ -1,4 +1,11 @@
-### Hi there 👋
+Desenvolvedor Web @IFPA
+
+[![Twitter Badge](https://img.shields.io/badge/-@Ryangalvaogp-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/RyanGalvaoGP)](https://twitter.com/RyanGalvaoGP) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ryan%20Galvaog%GP-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RyanGalvaoGPs/)](https://www.linkedin.com/in/RyanGalvaoGP/) 
+[![Gmail Badge](https://img.shields.io/badge/-ryan.trompetista@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryan.trompetista@gmail.com)](mailto:ryan.trompetista@gmail.com)
+
+
+"Nada neste mundo supera a boa e velha persistência. O talento não supera. Nada mais comum do que as falhas talentosas. O gênio não supera. Gênios não reconhecidos é praticamente um clichê. A educação não supera. O mundo está cheio de tolos educados. Persistência e determinação sozinhos são poderosos. "
 
 <!--
 **ryangalvaogp/Ryangalvaogp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
