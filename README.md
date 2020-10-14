@@ -1,8 +1,8 @@
 Desenvolvedor Web @IFPA
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ryangalvaogp-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/RyanGalvaoGP)](https://twitter.com/RyanGalvaoGP) 
-[![Linkedin Badge](https://img.shields.io/badge/-Ryan%20Galvão%20GP-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryangalvaogp/)](https://www.linkedin.com/in/ryangalvaogp/) 
-[![Gmail Badge](https://img.shields.io/badge/-ryan.trompetista@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryan.trompetista@gmail.com)](mailto:ryan.trompetista@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Ryangalvaogp-1C1C1C?style=flat-square&labelColor=1C1C1C&logo=twitter&logoColor=white&link=https://twitter.com/RyanGalvaoGP)](https://twitter.com/RyanGalvaoGP) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ryan%20Galvão%20GP-363636?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryangalvaogp/)](https://www.linkedin.com/in/ryangalvaogp/) 
+[![Gmail Badge](https://img.shields.io/badge/-ryan.trompetista@gmail.com-4F4F4F?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryan.trompetista@gmail.com)](mailto:ryan.trompetista@gmail.com)
 
 Entusiasta das melhores tecnologias de desenvolvimento web e mobile. Atualmente focado em Nodejs, Reactjs e React Native  
 
