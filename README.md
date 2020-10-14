@@ -1,7 +1,7 @@
 Desenvolvedor Web @IFPA
 
 [![Twitter Badge](https://img.shields.io/badge/-@Ryangalvaogp-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/RyanGalvaoGP)](https://twitter.com/RyanGalvaoGP) 
-[![Linkedin Badge](https://img.shields.io/badge/-Ryan%20Galvaog%GP-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RyanGalvaoGPs/)](https://www.linkedin.com/in/RyanGalvaoGP/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Ryan%Galvaog%GP-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RyanGalvaoGPs/)](https://www.linkedin.com/in/RyanGalvaoGP/) 
 [![Gmail Badge](https://img.shields.io/badge/-ryan.trompetista@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryan.trompetista@gmail.com)](mailto:ryan.trompetista@gmail.com)
 
 
