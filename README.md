@@ -1,34 +1,33 @@
-<div align="center">
-Desenvolvedor Web | ReactJs | NodeJs <br/>
-<strong>Técnico em Informática @IFPA</strong> <br/>
-Bacharelando em Sistemas de Informação @UFRA <br/>
+<div align = "center">
+  <a href="https://github.com/ryangalvaogp">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ryangalvaogp&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ryangalvaogp&layout=compact&hide=css,html&langs_count=8&theme=maroongold" />
+</div>
+<div align = "center">
+  <img height = "120em" src = "https://github-readme-stats.vercel.app/api/pin/?username=ryangalvaogp&repo=iVideosSearchBot&theme=great-gatsby" />
+  <img height = "120em" src = "https://github-readme-stats.vercel.app/api/pin/?username=ryangalvaogp&repo=livraria-galvao&theme=great-gatsby" />
+  <img height = "120em" src = "https://github-readme-stats.vercel.app/api/pin/?username=ryangalvaogp&repo=PodCastRG&theme=great-gatsby" />
+  <img height = "120em" src = "https://github-readme-stats.vercel.app/api/pin/?username=ryangalvaogp&repo=moveit&theme=great-gatsby" />
+  <img height = "120em" src = "https://github-readme-stats.vercel.app/api/pin/?username=ryangalvaogp&repo=happy&theme=great-gatsby" />
 </div>
 
-<div align="center">
-
-
-[![Twitter Badge](https://img.shields.io/badge/-@Ryangalvaogp-363636?style=flat-square&labelColor=363636&logo=twitter&logoColor=white&link=https://twitter.com/RyanGalvaoGP)](https://twitter.com/RyanGalvaoGP) 
-[![Linkedin Badge](https://img.shields.io/badge/-Ryan%20Galvão%20GP-363636?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ryangalvaogp/)](https://www.linkedin.com/in/ryangalvaogp/) 
-[![Gmail Badge](https://img.shields.io/badge/-ryan.trompetista@gmail.com-363636?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryan.trompetista@gmail.com)](mailto:ryan.trompetista@gmail.com)
+<div  style="display: inline_block"><br>
+  <img align="center" alt="rg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="rg-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="rg-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="rg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="rg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="rg-pic" height="150" style="border-radius: 10px;" src="https://avatars.githubusercontent.com/u/60650064">
 </div>
 
-<div align="justify">
-Entusiasta das melhores tecnologias de desenvolvimento web e mobile. Atualmente focado em Nodejs, Reactjs e React Native  
-
-"Nada neste mundo supera a boa e velha persistência. O talento não supera. Nada mais comum do que as falhas talentosas. O gênio não supera. Gênios não reconhecidos é praticamente um clichê. A educação não supera. O mundo está cheio de tolos educados. Persistência e determinação sozinhos são poderosos. "
+  ##
+  
+<div> 
+  <a href="https://www.instagram.com/ryangalvaogp/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ryangalvao.infotech@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ryangalvaogp" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=+5591984546411" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/ryangalvaogp/ryangalvaogp/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
-
-<!--
-**ryangalvaogp/Ryangalvaogp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
