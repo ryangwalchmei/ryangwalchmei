@@ -1,7 +1,7 @@
 <div align="center">
 Desenvolvedor Web | ReactJs | NodeJs <br/>
 <strong>Computer Technician @IFPA</strong> <br/>
-Bachelor's Degree in Information Systems @UFRA <br/>
+computer teacher at Flora MDF <br/>
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@ Bachelor's Degree in Information Systems @UFRA <br/>
 ###
 
 <div align="justify">
-Enthusiast of the best web and mobile development technologies. Currently focused on Nodejs, Reactjs and React Native.
+Enthusiast of the best web and mobile development technologies. Currently focused on NextJs, Nodejs and Reactjs.
 
 "Nothing in this world beats good old-fashioned persistence. Talent doesn't. Nothing more common than talented flaws. Genius doesn't. Unrecognized genius is practically a cliché. Education doesn't. The world is full of educated fools. Persistence and determination alone are powerful."
 </div>
