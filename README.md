@@ -1,5 +1,5 @@
 <div align="center">
-Desenvolvedor Web | ReactJs | NodeJs <br/>
+Desenvolvedor Web | Next.Js | Node.js <br/>
 <strong>Computer Technician @IFPA</strong> <br/>
 computer teacher at Flora MDF <br/>
 </div>
@@ -17,14 +17,14 @@ Enthusiast of the best web and mobile development technologies. Currently focuse
 
 <div align = "center">
   <a href="https://github.com/ryangwalchmei">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ryangwalchmei&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ryangwalchmei&layout=compact&hide=css,html&langs_count=8&theme=maroongold" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ryangwalchmei&show_icons=true&theme=maroongold&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ryangwalchmei&layout=compact&hide=css,html&langs_count=4&theme=maroongold" />
 </div>
 <div align = "center">
+  <img height = "120em" src = "https://github-readme-stats.vercel.app/api/pin/?username=ryangwalchmei&repo=leticiaeryan&theme=great-gatsby" />
+  <img height = "120em" src = "https://github-readme-stats.vercel.app/api/pin/?username=ryangwalchmei&repo=clone-tabnews&theme=great-gatsby" />
+  <img height = "120em" src = "https://github-readme-stats.vercel.app/api/pin/?username=ryangwalchmei&repo=Baba-Guardian-Access&theme=great-gatsby" />
   <img height = "120em" src = "https://github-readme-stats.vercel.app/api/pin/?username=ryangwalchmei&repo=iVideosSearchBot&theme=great-gatsby" />
-  <img height = "120em" src = "https://github-readme-stats.vercel.app/api/pin/?username=ryangwalchmei&repo=livraria-galvao&theme=great-gatsby" />
-  <img height = "120em" src = "https://github-readme-stats.vercel.app/api/pin/?username=ryangwalchmei&repo=PodCastRG&theme=great-gatsby" />
-  <img height = "120em" src = "https://github-readme-stats.vercel.app/api/pin/?username=ryangwalchmei&repo=moveit&theme=great-gatsby" />
   <img height = "120em" src = "https://github-readme-stats.vercel.app/api/pin/?username=ryangwalchmei&repo=happy&theme=great-gatsby" />
 </div>
 
@@ -70,9 +70,9 @@ Enthusiast of the best web and mobile development technologies. Currently focuse
   
 <div> 
   <a href="https://www.instagram.com/ryangwalchmei/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ryan.gwalchmei@outlook.com.br" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ryangalvaogp" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=+5591984546411" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:ryan@gwalchmei.com.br" target="blank"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ryangwalchmei" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/5591984546411" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/ryangwalchmei/ryangwalchmei/blob/output/github-contribution-grid-snake.svg)
  
